@@ -1,0 +1,7 @@
+References
+
+1. Dhawal Saini and G. V. V. Sharma, Digital Clock using the Arduino Framework,
+Department of Electrical Engineering, Indian Institute of Technology Hyderabad,
+January 29, 2026.
+2. Arduino documentation and Arduino Uno reference material.
+3. Project source code supplied by the student for the present prototype

@@ -1,0 +1,5 @@
+References: 
+a) prof. G. V. V. Sharma (main pdf in github). 
+b) ChatGPT: https://chatgpt.com/share/6ab7e6ae-551c-83e8-be71-810bddfe6126?ogimg=plain
+c) Circuit connections - Pdf and Chatgpt 
+D) Youtube - For learning openscad :  https://youtube.com/playlist?list=PL3by7evD3F51u-17hoepe7IduGkfp2Fu6&si=pmUPUCsowUEsGHmd
