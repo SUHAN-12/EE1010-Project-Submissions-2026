@@ -1,0 +1,8 @@
+References:
+1)CODES:
+   Chatgpt - https://chatgpt.com/share/6ae8bbf0-fcac-83ec-b8b5-f7aa0f7b52f8 
+             https://chatgpt.com/share/6ae75bf0-b0b8-83ee-9f03-ce943e5ebf4d?ogimg=plain
+   Gemini  - https://share.gemini.google/iKWnfWhTPGP2
+   Claude  - tried to use but didn't got required codes.
+2) G.V. V Sharma(main.pdf) for understanding.
+3) gemini and chatgpt for getting clarity about what is happening and connections.
